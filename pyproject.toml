@@ -1,0 +1,11 @@
+
+[project]
+name = "anutils"
+version = "0.0.1"
+description = ""
+authors = [
+    {name = "alnthy", email = "2580424155@qq.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+license = {text = "MIT"}
